@@ -1,0 +1,369 @@
+# A list of popular video game quotes.
+# Used on chat bots (IRC Eggdrop) and basic AI that need random
+# output for things like anti-idle, pseudo awareness, etc.
+
+Greetings Professor, nothing to report!
+More stairs? Who built this damn Vault, a fitness instructor?
+LEEEERRROOOYYYY JEEEENKINS!!!!!
+Wake me... when you need me.
+What are you buying?
+The right man in the wrong place can make all the difference in the world.
+Up for a few rounds of Gwent?
+Main screen turn on.
+Shoryuken!
+Never should have come here.
+Do not mistake my silence for lack of grief.
+We have another settlement in need of your help.
+Press F to pay respects.
+Hey cousin, want to go bowling?
+Permission to leave the ship.
+Would you kindly?
+Fire in the hole.
+Do you have coin?
+Snake? Snake?!? SNAAAAAAAAAAAAAKKEEE!!!!
+It's not a lake, it's an ocean.
+There's always a man, a lighthouse and a city.
+You died.
+I'll be here. I'll be waiting for you. If you come here, you'll find me. I promise.
+Those alien bastards are gonna pay for shooting up my ride!
+You must construct additional pylons.
+Hey you, you’re finally awake..
+WAAAAAAH!
+Sploooosh
+Show me your moves!
+FROM DOWNTOWN
+You have my thanks.
+Think you can handle this many?
+I'm not putting my lips on that...
+That new guy in town looks like he really knows how to tune a bow.
+You have no chance to survive make your time.
+Aren't you a little short to be a grim reaper?
+A strange, old man... In a white coat?
+I’m on fire!
+This is going to be epic!
+This is going to be legendary!
+Here we go!
+Boost Fire!
+Welcome to the village!
+Get ready to rumble!
+This way!
+You are the chosen one.
+Scanning . . .
+How can you be so sure that memories are real?
+Change the script.
+The heart is a strange beast.
+Gotcha!
+The world is a wheel.
+The world is full of possibilities, but it's up to us to shape it.
+I will not yield.
+He's on fire!
+Is it the shoes!?
+All we have are the choices we make.
+It's not over until the last breath.
+All lives have value, no matter how small they are.
+Some say the world will end in fire. Some say in ice. I say it’s up to us to decide.
+Take off every 'ZIG'.
+You’re stronger than you think. You always have been.
+Not in my house!
+Die, monster! You don't belong in this world!
+You’re not alone. You’ve never been alone.
+Time to get paid!
+We’re gonna need a bigger team!
+Foolish mortal.
+You had one job!
+It's over!
+You’ve got to be kidding me.
+The ultimate weapon is the will to win.
+You think you can defeat me? You’re not even close!
+How do you like my power?
+There’s no such thing as good or bad… just choices.
+I'm Batman!
+If you’re good at something, never do it for free.
+If I’m not back in five minutes... wait longer!
+You are my greatest enemy… but also my greatest ally.
+The truth is out there.
+There's no such thing as perfect. Only different.
+We don't stop playing because we grow old, we grow old because we stop playing.
+You want some of this?
+Happiness is not guaranteed.
+The world is full of monsters with pretty faces.
+The end is nigh.
+Never go full retard.
+The answer lies in the ruins of the past.
+Time to make the donuts.
+You are the sum of your choices.
+If you can't make it good, at least make it look good.
+There is no peace without war.
+For great justice.
+I’ve got your back.
+When you die, you're gonna get a proper burial.
+You always had a choice.
+There’s always a bigger fish.
+This isn’t even my final form!
+I trust you, I really do!
+Game over, man! Game over!
+War has changed.
+I'm not a hero, I'm a sidekick.
+You can't escape your fate!
+They were all dead.
+Level Up!
+1-Up!
+Gotta go fast!
+It is now safe to turn off the power.
+The power of magic!
+Thou hast defeated the dragon!
+THE END
+Super Joe is in trouble!
+Time's up!
+You're doing great!
+I’ll just be in my room... with my space heater.
+You are a hero!
+You gain levels by fighting!
+Keep calm and carry on.
+A little pain never killed anyone.
+They’re no match for me.
+There's a monster under the bed.
+Fus Ro Dah!
+Shall we play a game?
+Taco Tuesday! I’m ready!
+This is my story. It’s all I have left.
+You're gonna need a bigger boat.
+Okay.
+The future is not set.
+The end?
+You found me!
+The island is a puzzle.
+The end is only the beginning.
+... I'm sorry.
+Fatality!
+Ding!
+I can't do that right now.
+I am sworn to carry your burdens.
+The world is full of obvious things which nobody by any chance ever observes.
+We do what we must because we can.
+For the Alliance!
+The end of time.
+Stay a while, and listen!
+Are you ready?
+You are mine now!
+You’re too slow!
+All right, let’s do this!
+I’ve been expecting you.
+You’ve got to be kidding me!
+Let’s go, partner!
+Can you feel the sunshine?
+I'll be back!
+There’s no turning back now.
+I’ve got a bad feeling about this.
+The curse is lifted!
+Thou hast killed the Dragonlord!
+You're doing great!
+You might need this.
+My ship! My crew!
+I can't do that yet.
+You got it! The power glove!
+I'm ready for ya, doc!
+Ready! Go!
+Our journey continues.
+I have no choice but to fight.
+Game over, pal.
+This is gonna be fun!
+To the stars!
+I'm outta here!
+Help! Help me!
+The stars are waiting for you.
+Whoa!
+Oh my!
+You have to believe in the future.
+Where's that damn dog?
+It's all just a big puzzle..
+Jackpot!
+This guy are sick.
+Master of unlocking. What a grand title.
+I have to settle this, once and for all!
+SeeD... SeeD... SeeD... SeeD!
+Do you want to save your game?
+So, you wish to challenge the Dark Lord?
+You can't beat me!
+Game Over
+The legend begins anew!
+Victory is everything.
+I am the ultimate life form!
+You can't win if you don't fight.
+Yes.
+I don't get it.
+Hey gimme me back my money!
+Heya.
+You are now entering the world of 3DO.
+I've always hated that broad.
+Looking at you is making me sober.
+Did you sleep well?
+I have nothing to say.
+I'm goin' upstairs, I wanna talk about my money!
+I wanna be a Blitzball when I grow up!
+Ooo, soft ...
+Shut up! Sit your ass down in that chair and DRINK YOUR GODDAMN TEA!
+It's not my problem...
+Yo, c'mon let's go!
+You must conquer your fear.
+We're not monsters, we're just ahead of the curve.
+No.
+We are the music makers, and we are the dreamers of dreams.
+The only limit to our realization of tomorrow will be our doubts of today.
+Not interested...
+The future is not set, there is no fate but what we make for ourselves.
+In the end, we're all alone, and no one's coming to save you.
+You can't change the world, but you can change yourself.
+I should go.
+Man, I was born lucky.
+A hunter must hunt.
+Not everything's a lesson. Sometimes you just fail.
+Do not be sorry. Be better.
+If you want to survive, you’ve got to fight for it.
+Don’t you think you’ve seen enough?
+Stand tall and shake the heavens.
+Do you have a moment to talk about the environment?
+Not all can carry the weight of the world.
+Milk is secret to humans.
+Wake up, Mr. Freeman. Wake up and smell the ashes.
+I am thou. Thou art I. From the sea of thy soul, I come.
+When life gives you lemons, don’t make lemonade. Make life take the lemons back!
+Prepare for unforeseen consequences.
+Every puzzle has an answer.
+A sword wields no strength unless the hand that holds it has courage.
+The world doesn't get to decide who you are. You do.
+It’s a terrible day for rain.
+You ever wonder why we're here?
+Don't make a girl a promise if you know you can't keep it.
+You’re good. Real good. Maybe even the best.
+Everything not saved will be lost.
+Shhh. This is a library.
+They say... hope begins in the dark.
+It's a funny thing, ambition...
+You are not prepared!
+My past is not a memory. It's a force at my back.
+You've met with a terrible fate, haven't you?
+Would you like fries with that shake?
+The only way to survive is to become something else.
+I don’t need a weapon; my friends are my power!
+Bring me a bucket, and I'll show you a bucket!
+I'm not a hero, I'm just a guy who's good at what he does.
+The only constant in life is change.
+The strongest weapon against an enemy is another enemy.
+We are not alone.
+I'm not a monster, I'm just ahead of the curve.
+Long live the king.
+If our lives are already written, it would take a courageous man to change the script.
+Go home and be a family man.
+Combo breaker!
+I need a weapon.
+I’m Commander Shepard, and this is my favorite store on the Citadel!
+Boomshakalaka!
+I’m the strongest woman in the world.
+Stay a while and listen.
+Groovy!
+...Whatever.
+Tell Mike to dip my letter in water….
+You can’t undo what you’ve already done, but you can face up to it.
+You look like a fast runner. To run, push the Control Pad twice.
+Hadouken!
+Trust me...
+People don't forget. Nothing gets forgiven.
+The cycle ends here, we must be better than this.
+We've both done a lot of things you're going to regret..
+Tell my wife… I had another wife...
+Alright, boys, Phasers on Stun!
+Gimme some skull, baby!
+Oh no, I'm too young to have a second childhood.
+Hello? ... Damn neighbor kids!
+Behind one of these doors is a brand new car!
+Can't we all just get along?
+Ah, Detroit, Pearl of the Orient!
+Fancy a quick puff-puff?
+I'm not a bad slime!
+I have no tomatoes today.
+Rub anywhere you like!
+Okay, time to wake up and smell the pop music, people!
+You're not even good enough to be my fake.
+It's-a me!
+I'm gonna mangle you green slimballs.
+Use your head... literally!
+Kick! Punch! It's all in the mind.
+All your base are belong to us.
+I, Garland, will knock you all down!
+Welcome to MY Fantasy Zone. Get ready!
+Go home and be a family man!
+One toot on this whistle will send you to a far away land!
+Bring on the ketchup, don't forget the cheese. Bring on the mustard, handle it with ease!
+Ah, not yet, thanks.
+I used to be an adventurer like you. Then I took an arrow in the knee...
+Take your damn clothes off!
+The ad says Beverly Hills adjacent.
+I hate these low budget b-channels.
+Hope I don't make a wrong turn and end up in an old game of Asteroids.
+I might have to go plant some cows or something.
+Gee, Scoob! Let's get back to the Mystery Van!
+Those Aussies are ruthless! They even wired kangaroos with explosives... come hopping in the camp and knock out ten guys!
+We can rebuild him. Stronger. Faster.
+OK, where's the can?
+Comin' through!
+GERONIMO!!!
+Into the garbage chute, flyboy!
+I know when I'm not wanted.
+I'll just go in here.
+Open seasame!
+Hope they don't need ID...
+If I had a life, I'd be glad to get back to it!
+Will somebody please call the maid?
+Well, this looks familiar...
+I'm invincible!
+Who opened the can of whoop-ass?
+This place is weirder than 4th of July at Rick James' place.
+I'm not in Kansas anymore...
+This would be great for my collection.
+Have we met before, Mr. Tongue?
+All that work and I'm back where I'm started - it's just like college!
+Now that's what I call gettin' some tail.
+Right or wrong is not what separates us and our enemies. It's our different standpoints, our perspectives that set us apart.
+I was raised in the slums. I'm used to danger.
+The best solution to a problem is usually the easiest one. And I'll be honest - killing you is hard.
+Big Smoke!
+It ain’t no secret I didn’t get these scars falling over in church.
+The cake is a lie.
+Get over here!!
+The only thing that can defeat power, is more power.
+This one's for Johnny!
+No matter how dark the night, the morning always comes.
+Hey! Look! Listen!
+Why walk when you can ride?
+Cheese!
+You have died of dysentery.
+At the end of the day, as long as there are two people left on the planet, someone is gonna want someone dead.
+No gods or kings. Only man.
+Hungry... must find... food...
+Dude, I'm so high!
+I never asked for this.
+FINISH HIM!!!
+Smell my power...
+You were almost a Jill sandwich!
+It’s time to kick ass and chew bubble gum…and I’m all outta gum.
+A little tongue now, a lot of tail later.
+Sweet... like candy.
+Do a barrel roll!
+Does this unit have a soul?
+The price of freedom is eternal vigilance.
+Send me out...with a bang.
+Since I retired, I resigned myself to a life of solitude.
+Scotty. Shields up.
+Welcome to the only thing more evil than IRS headquarters.
+Gimme an elixir!
+Ah shhh, here we go again...
+Dude, I'm tripping!
+There is power in control. There is wisdom in harnessing the strengths of your enemy.
+Our princess is in another castle!
+It's tail time!
+It's dangerous to go alone! Take this.
+Where are you going?! Come back! Come back! ...oh.
+At least I'm not at the DMV!
+If the laws of physics no longer apply in the future, God help you.
+Hey, let's make a promise. Umm... if you get really famous... and if I'm ever in a bind... you'll come save me, all right?
